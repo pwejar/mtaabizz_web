@@ -1,0 +1,7 @@
+{
+  "name": "mtaabizz_web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
